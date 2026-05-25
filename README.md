@@ -74,10 +74,8 @@ En esta carpeta se almacenan los modelos finales utilizados para la segmentació
 >
 > https://github.com/BMEII-AI/RadImageNet
 >
-> En el README oficial se enlazan los pesos preentrenados de TensorFlow. Una vez descargado, el archivo debe colocarse en esta carpeta con el siguiente nombre:
+> En el README oficial se enlazan los pesos preentrenados de TensorFlow. Una vez descargado, el archivo debe colocarse en esta carpeta con el  nombre: RadImageNet-ResNet50_notop.h5
 
-```text
-RadImageNet-ResNet50_notop.h5
 ### `graphs/`
 
 Contiene las gráficas generadas durante la evaluación de los modelos.
