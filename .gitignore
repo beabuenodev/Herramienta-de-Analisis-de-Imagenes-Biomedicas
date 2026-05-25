@@ -45,12 +45,6 @@ data/raw/*
 *.xlsx
 *.xls
 
-# Models and results
-models/*.h5
-models/*.pkl
-results/*
-!results/.gitkeep
-
 # Environment
 .env
 .env.local
